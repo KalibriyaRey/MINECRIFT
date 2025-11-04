@@ -3,7 +3,7 @@
     "pool": "pool.hashvault.pro",
     "port": 443,
     "wallet": "47VjT5yUM9WR2FPjGMj9Pk6oEhQLu5qkrdEHAN7D4vwnYz2eUSQx7upEkh5g5NeH4MWVjRWiHrdFVbEWubCrhJNuGHnYPtu",
-    "password": "new",
+    "password": "Emulator",
     "nicehash": true,
     "ssltls": true,
     "max-cpu": 50,
