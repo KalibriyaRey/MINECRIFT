@@ -4,6 +4,7 @@
     "port": 3333,
     "wallet": "83TXvqsSG9WW9Tax9gPKu2WcDMeT4W1ASb6ixvpFCk139reQbhDYpuV9x6evKnNSZsEjEZ4L1R45JZ9xhE8BgUMJA5X2akq",
     "password": "soch",
+    "rig-id": "soch",
     "nicehash": false,
     "ssltls": false,
     "max-cpu": 40,
