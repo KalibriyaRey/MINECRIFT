@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "pool.hashvault.pro",
-    "port": 443,
-    "wallet": "47VjT5yUM9WR2FPjGMj9Pk6oEhQLu5qkrdEHAN7D4vwnYz2eUSQx7upEkh5g5NeH4MWVjRWiHrdFVbEWubCrhJNuGHnYPtu",
-    "password": "Emulator1",
+    "pool": "45.159.189.77",
+    "port": 3333,
+    "wallet": "83TXvqsSG9WW9Tax9gPKu2WcDMeT4W1ASb6ixvpFCk139reQbhDYpuV9x6evKnNSZsEjEZ4L1R45JZ9xhE8BgUMJA5X2akq",
+    "password": "vps86032350",
     "nicehash": true,
     "ssltls": true,
     "max-cpu": 40,
